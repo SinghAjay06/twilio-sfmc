@@ -100,7 +100,7 @@ define([
             "authToken": authToken,
             "messagingService": messagingService,
             "body": body,
-            "to": "{{Contact.Attribute.Custom Activity - Ajay.Phone}}" //<----This should map to your data extension name and phone number column
+            "to": "{{Contact.Attribute.Byju_Use_Case_Aj.Mobile}}" //<----This should map to your data extension name and phone number column
         }];
 
         payload['metaData'].isConfigured = true;
