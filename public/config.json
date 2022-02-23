@@ -32,7 +32,7 @@
     "configurationArguments": {
       "applicationExtensionKey": "9d8f40c7-46f8-4b7f-85f4-1337bdb86aa6",
        "save": {
-           "url": "https://twiliocustomactivity.herokuapp.com/save",
+           "url": "https://twiliocustomactivity.herokuapp.com/journeybuilder/save/",
             "verb": "POST",
             "body": "",
             "format": "json",
