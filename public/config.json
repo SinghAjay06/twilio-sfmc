@@ -21,7 +21,7 @@
                 }               
             ],
             "outArguments": [],
-            "url": "https://twiliocustomactivity.herokuapp.com/execute",
+            "url": "https://twiliocustomactivity.herokuapp.com/journeybuilder/execute",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -32,7 +32,7 @@
     "configurationArguments": {
       "applicationExtensionKey": "9d8f40c7-46f8-4b7f-85f4-1337bdb86aa6",
        "save": {
-           "url": "https://twiliocustomactivity.herokuapp.com/save",
+           "url": "https://twiliocustomactivity.herokuapp.com/journeybuilder/save",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -40,7 +40,7 @@
             "timeout": 2000
        },
        "publish": {
-           "url": "https://twiliocustomactivity.herokuapp.com/publish",
+           "url": "https://twiliocustomactivity.herokuapp.com/journeybuilder/publish",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -48,7 +48,7 @@
             "timeout": 2000
        },
        "validate": {
-           "url": "https://twiliocustomactivity.herokuapp.com/validate",
+           "url": "https://twiliocustomactivity.herokuapp.com/journeybuilder/validate",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -56,7 +56,7 @@
             "timeout": 2000
        },
        "stop": {
-           "url": "https://twiliocustomactivity.herokuapp.com/stop",
+           "url": "https://twiliocustomactivity.herokuapp.com/journeybuilder/stop",
             "verb": "POST",
             "body": "",
             "format": "json",
